@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "codecraft-a38ba"
+  },
+  "targets": {
+    "codecraft-a38ba": {
+      "hosting": {
+        "codecraft": [
+          "codecraft-a38ba"
+        ]
+      }
+    }
+  }
+}
